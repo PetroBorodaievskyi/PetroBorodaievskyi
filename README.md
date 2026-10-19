@@ -12,7 +12,7 @@ My backend experience includes C/C++, Python, PostgreSQL, FastAPI
 
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/петро-бородаєвський-1a8748374/?isSelfProfile=true)
-- [Telegram](@BPetroo)
+- [Telegram](https://t.me/BPetroo)
 <!--
 
 Here are some ideas to get you started:
