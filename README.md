@@ -1,7 +1,19 @@
 ## Hi there 👋
 
+My name is Petro, I`m a student of LPNU and studying for a degree in Software engineering
+
+My backend experience includes C/C++, Python, PostgreSQL, FastAPI
+
+**Languages:** C/C++, Python, C# 
+
+**Worked with:** FastAPI, PostgreSQL, Unity
+
+**I’m currently working in:** LPNU Student Trade Union Committee, Software Department
+
+### 📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/петро-бородаєвський-1a8748374/?isSelfProfile=true)
+- [Telegram](@BPetroo)
 <!--
-**PetroBorodaievskyi/PetroBorodaievskyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
